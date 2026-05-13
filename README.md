@@ -14,3 +14,7 @@ Este repositorio se utiliza para documentar la instalación, configuración y us
 - Creación de repositorio local.
 - Sincronización con GitHub mediante SSH.
 - Pruebas de modificación desde local y desde GitHub.
+
+## Modificación desde GitHub
+
+Este cambio se ha realizado desde la interfaz web de GitHub para comprobar la sincronización con el repositorio local.
